@@ -6,7 +6,7 @@
 ```bat
 git clone https://github.com/pyfuhr/file_entropy
 cd file_entropy
-pip install -r requerments.txt
+pip install -r requirements.txt
 ./compile_lib.bat
 python main.py
 ```
@@ -15,7 +15,7 @@ python main.py
 ```sh
 git clone https://github.com/pyfuhr/file_entropy
 cd file_entropy
-pip3 install -r requerments.txt
+pip3 install -r requirements.txt
 ./compile_lib.sh
 python3 main.py
 ```
